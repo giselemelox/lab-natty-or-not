@@ -21,21 +21,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+IA aplicada para área de cobrança
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Como utilizar a IA generativa para ter mais efetividade na reversão da inadimplência.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IAs Generativas, como chatGPT.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente, fiz um fork do projeto disponibilizado pelo DIO no github
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ainda não há resultados a serem apresentados.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Dasafiador para quem não domina a TI e IA.
 ```
 
 ### Exemplos e Insigths
